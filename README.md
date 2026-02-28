@@ -2,6 +2,8 @@
 
 Welcome to the **Tetrahedral Number 3D Visualizer**, a self-contained, single-file HTML web application that dynamically renders mathematical figurate numbers!
 
+👉 **[Live Preview Available Here](https://jdbsolution.github.io/TetraViz/)**
+
 ## What is this app for?
 
 This application allows you to explore and visualize **Tetrahedral Numbers** (3D pyramidal structures) and their relationship to **Triangular Numbers** (2D planar structures).
